@@ -14,3 +14,6 @@
 ・GitHubの使い方をマスターする必要がある
 
 **リンク**
+・wakatime Dashboard: https://wakatime.com/dashboard
+・How to wakatime: https://www.asobou.co.jp/blog/web/wakatime
+・Git hub: https://github.com/HIRO-INFJ/100-days-of-code
