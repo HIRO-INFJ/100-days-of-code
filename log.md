@@ -43,3 +43,27 @@ Maybe you should make what you want to make on your own, in the language you wan
 **Link**
 ・Udemy: https://www.udemy.com/course/100-days-of-code/
 ・https://repl.it/
+
+### Day2: December 11, 2020
+**Today's Progress** 
+・RubyでTwitter風Apexコミュニティサイトを作ろうと決めた
+・Rubyの環境構築←スーパー激ムズ？？？？無理矢理進めっていったらできている気がする？？？？？
+下記リンクの
+”$ gem install rails -v 5.2.3”ここまでは作業済み
+次の工程でエラーが出た
+'''Rails is not currently installed on this system. To get the latest version, simply type:
+
+    $ sudo gem install rails
+
+You can then rerun your "rails" command.
+'''
+
+
+
+**Thoughts** 
+・RubyでTwitter風Apexコミュニティサイトを作ろうと決めた
+・コンセントがないところで環境構築するのはバカ
+
+**Link(s) to work**:
+・環境構築：https://qiita.com/kodai_0122/items/56168eaec28eb7b1b93b
+・
