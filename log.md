@@ -44,6 +44,7 @@ Maybe you should make what you want to make on your own, in the language you wan
 ・Udemy: https://www.udemy.com/course/100-days-of-code/
 ・https://repl.it/
 
+---------------------------------------------------------
 ### Day2: December 11, 2020
 **Today's Progress** 
 ・RubyでTwitter風Apexコミュニティサイトを作ろうと決めた
@@ -57,13 +58,26 @@ Maybe you should make what you want to make on your own, in the language you wan
 
 You can then rerun your "rails" command.
 '''
+→この記事をみたら瞬間で解決した：https://qiita.com/amuyikam/items/313bc89c1de320a4257e
+
+・"rails s"が失敗するのはOSが上がったせい？なのでNode.jsを最新のものにすれば秒で解決できる：https://qiita.com/mayuseenjineer/items/869a0b4315390c23b615
+エラー分：Could not find a JavaScript runtime. See https://github.com/rails/execjs for a list of available runtimes.
 
 
+=Rubyの環境構築は完了！　動かすときは"rails s"
+ URL: http://localhost:3000/ のローカルで開く
+今日はここまで
 
 **Thoughts** 
 ・RubyでTwitter風Apexコミュニティサイトを作ろうと決めた
 ・コンセントがないところで環境構築するのはバカ
+・昔よりはググる力がついたようだ。→なぜ問題が解決するのかはまだわからん。
 
 **Link(s) to work**:
 ・環境構築：https://qiita.com/kodai_0122/items/56168eaec28eb7b1b93b
-・
+・railsがうまく動かない時のバルス：https://qiita.com/amuyikam/items/313bc89c1de320a4257e
+
+
+
+
+
